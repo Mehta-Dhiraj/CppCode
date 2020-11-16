@@ -11,7 +11,7 @@ int main() {
 
 	cout << "Enter a string\n";
 	getline(cin, str);
-	string missing = missingLetter(str);
+	string missing = missingLetter(str);     //function call
 
 	if (missing == "") {
 		cout << "\nNope";

@@ -23,7 +23,7 @@ int main() {
 	return 0;
 }
 
-string missingLetter(string str) {
+string missingLetter(string str) {		//function definition
 	int first = str[0];
 	int last = str[str.length() - 1];
 	int round = last - first;

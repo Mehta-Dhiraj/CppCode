@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Date.cpp" />
+    <ClCompile Include="IntInput.cpp" />
     <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="TestCode.cpp" />
     <ClCompile Include="Random.cpp" />

@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Date.cpp" />
+    <ClCompile Include="FindOdd.cpp" />
     <ClCompile Include="IntOnly.cpp" />
     <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="TestCode.cpp" />

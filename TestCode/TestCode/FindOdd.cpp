@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int oddOccurance(int[], int);
@@ -29,4 +29,4 @@ int oddOccurance(int arr[], int len) {
             return arr[i];
     }
     return -1;
-}*/
+}
